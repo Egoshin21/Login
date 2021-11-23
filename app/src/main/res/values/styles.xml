@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button_style">
+        <item name="android:background">#262626</item>
+    </style>
+</resources>
